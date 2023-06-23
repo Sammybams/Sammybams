@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there👋, I'm Samuel</h1>
 
-<p align='center'>I'm a Machine Learning engineer and Python developer. I’m looking to collaborate on machine learning and scripting projects.</p>
+<p align='center'>I am a Machine Learning engineer and Python developer. I’m looking to collaborate on machine learning and scripting projects.</p>
 <h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348169427605?text=Hello Samuel" target="_blank">
