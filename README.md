@@ -18,7 +18,6 @@
 <a href="mailto:samuelbamgbola@gmail.com" target="_blank">
   <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/gmail.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
-</p>
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sammybams&show_icons=true&theme=tokyonight&line_height=27">
