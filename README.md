@@ -17,8 +17,11 @@
 </a>&nbsp;&nbsp;
 <a href="mailto:samuelbamgbola@gmail.com" target="_blank">
   <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/gmail.png" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/Sammybams" width="150" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="https://sammybams.hashnode.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt='dev' height='40' />
+</a>&nbsp;&nbsp;
+
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sammybams&show_icons=true&theme=tokyonight&line_height=27">
