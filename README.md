@@ -9,7 +9,7 @@
 <a href="https://twitter.com/sammyabams" target="_blank">
   <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/twitter.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bamgbola-samuel-29baa91a3/" target="_blank">
+<a href="https://www.linkedin.com/in/samuel-bamgbola-29baa91a3/" target="_blank">
   <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/linkedin.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
 <a href="www.t.me/sammybams" target="_blank">
